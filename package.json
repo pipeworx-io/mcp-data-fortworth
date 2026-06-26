@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-data-fortworth",
+  "version": "0.1.0",
+  "description": "Fort Worth Open Data (data.fortworthtexas.gov) Socrata MCP.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "data-fortworth"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-data-fortworth"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
