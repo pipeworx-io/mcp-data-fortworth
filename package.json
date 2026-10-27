@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-fortworth",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Fort Worth Open Data (data.fortworthtexas.gov) Socrata MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-bd0289328b16bd94e450d6cdf1142467d6ad9bd7764066fd4449274982216240",
-    "sourceCommit": "01241619b78233fd55d0e3612331499a63f03ae7"
+    "sourceHash": "v1-5af8ad0753269a03086d2f3d45cedcb25f0951943c74a14379ee1e91d4fbbb96",
+    "sourceCommit": "ba9dd6df5992aeb16ef2425ee86d1752c34ca636"
   }
 }
